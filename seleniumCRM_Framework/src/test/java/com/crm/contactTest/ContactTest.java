@@ -7,6 +7,7 @@ public class ContactTest {
 	@Test(groups = "smokeTest")
 	public void createContactTest() {
 		System.out.println("execute createContactTest");
+		System.out.println("FirstCommit");
 	}
 	
 	@Test(groups = "regressionTest")
